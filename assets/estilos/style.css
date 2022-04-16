@@ -233,3 +233,15 @@ body {
         margin-top: 0.5rem;
     }
 }
+
+@media screen and (max-width: 380px) {
+
+    .input-group {
+        padding: 1rem 0;
+    }
+
+    .form-header {
+        flex-direction: column;
+        height: 20%;
+    }
+}
