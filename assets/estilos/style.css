@@ -237,7 +237,11 @@ body {
 @media screen and (max-width: 380px) {
 
     .input-group {
-        padding: 1rem 0;
+        padding: 2rem 0;
+    }
+
+    .input-box input {
+        margin: 1rem 0;
     }
 
     .form-header {
