@@ -236,16 +236,16 @@ body {
 
 @media screen and (max-width: 380px) {
 
-    .input-group {
-        padding: 2rem 0;
-    }
-
-    .input-box input {
-        margin: 1rem 0;
-    }
-
     .form-header {
         flex-direction: column;
         height: 20%;
     }
+
+    .input-group {
+        padding: 2rem 0;
+    }
+
+    .input-box {
+        height: 80px;
+    }    
 }
